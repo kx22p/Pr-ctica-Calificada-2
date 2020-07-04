@@ -10,5 +10,6 @@
 
 Ejecutar los archivos de la siguiente manera:
 python3 nombre_archivo.py
+
 Librerías usadas:
 numpy, scipy, matplotlib
