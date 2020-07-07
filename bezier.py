@@ -23,7 +23,7 @@ def bezier_curve(points, nTimes=1000):
 if __name__ == "__main__":
 	nPoints = 4
 	points = np.array([[-3,0],
-				[-1,0],
+				[-1,4],
 				[2,3],
 				[4,1]])
 	xpoints = [p[0] for p in points]
